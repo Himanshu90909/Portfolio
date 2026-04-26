@@ -1,4 +1,6 @@
 # Portfolio
 Share My all Data
 
-link:- file:///C:/Users/Himanshu%20Suthar/Downloads/himanshu_portfolio.html
+AI & ML Engineer · Full-Stack Developer
+
+Passionate Computer Science student specialising in Artificial Intelligence & Machine Learning at Lovely Professional University. Building full-stack AI-powered web applications, recommendation systems, and intelligent tutoring platforms.
